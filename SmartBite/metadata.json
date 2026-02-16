@@ -1,0 +1,5 @@
+{
+  "name": "SmartBite",
+  "description": "A minimalist AI-powered food assistant providing descriptions in English and Malayalam, ingredients, nutrition facts, and dual-language recipe links.",
+  "requestFramePermissions": []
+}
